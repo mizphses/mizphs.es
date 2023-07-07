@@ -14,7 +14,7 @@ export default defineNuxtConfig({
         { hid: 'og:site_name', property: 'og:site_name', content: 'みずさわぽーたる' },
         { hid: 'og:title', property: 'og:title', content: 'みずさわぽーたる' },
         { hid: 'og:description', property: 'og:description', content: 'みずさわぽーたる: みずさわ（mizphses）の個人サイト' },
-        { hid: 'og:image', property: 'og:image', content: 'https://mizphs.es/ogp.png' },
+        { hid: 'og:image', property: 'og:image', content: 'https://mizphs.es/ogp.webp' },
         { hid: 'og:url', property: 'og:url', content: 'https://mizphs.es' },
         { hid: 'og:type', property: 'og:type', content: 'website' },
         // favicon
