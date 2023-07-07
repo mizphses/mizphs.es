@@ -1,11 +1,6 @@
 <template>
   <div class="footer">
     <p>©2023 mizphses</p>
-    <p>
-      <nuxt-link href="/content-copyright-policy">
-        著作権ポリシー
-      </nuxt-link>
-    </p>
     <div class="banners">
       <a href="https://sites.google.com/view/happy-busy/" target="_blank">
         <img src="/banners/jikannee.png" height="40px"  />

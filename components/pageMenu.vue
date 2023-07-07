@@ -23,6 +23,9 @@
     display: grid;
     grid-template-columns: 1fr 4fr;
     gap: 20px;
+    @media (max-width:800px) {
+      grid-template-columns: 1fr;
+    }
   .menu-to-pages{
     display: flex;
     flex-direction: column;
@@ -35,6 +38,9 @@
         max-width: 500px;
         margin: 3px 0;
       }
+    }
+    @media (max-width:800px) {
+      display: none;
     }
   }
 }
